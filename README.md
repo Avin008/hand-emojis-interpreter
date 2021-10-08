@@ -1,6 +1,6 @@
 # hand-emojis-interpreter
 
-A Web app that can display hand emojis with their meaning.
+A Web app which can display the meaning of hand emojis you use while texting. 
 
 # Built Using
 
